@@ -1,0 +1,2 @@
+# JavaPoker
+In order to demonstrate my programming skills I am writing this poker app. The classes for individuals cards and the deck, along with the shuffling and dealing methods were taken from a text book. The other methods and classes were my creation. In order to get an introduction to object-oriented programming I worked through Paul &amp; Harvey Deitel's Java: How to program, 10th Ed., Late objects version.
